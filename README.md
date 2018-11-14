@@ -1,3 +1,15 @@
+# Mobile Flashcards
+
+This application will show off some of the core concepts for developing in React and React Redux for mobile development with Expo as part of the Udacity Nanodegree course.
+
+Coded by Jake Lee
+
+## TL;DR
+
+To get started developing right away:
+
+* install all project dependencies with `npm install`
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
